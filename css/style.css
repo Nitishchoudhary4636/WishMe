@@ -244,6 +244,7 @@ a:focus {
   background-color: #f89cab;
   padding: 25px;
   border-radius: 0 0 15px 15px;
+  height: 450px;
 }
 
 .slider_section .row {
@@ -304,7 +305,7 @@ a:focus {
   -ms-flex-align: center;
   align-items: center;
   position: absolute;
-  bottom: -25px;
+  bottom: 200px;
   left: 5%;
   padding: 7px 10px;
   border-radius: 5px 5px 0 0;
